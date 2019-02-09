@@ -4,7 +4,8 @@
     "main": "index.js",
     "author": "Atin Singh <atin@insyght.ai>",
     "scripts": {
-        "start": "node app.js"
+        "start": "node app.js",
+        "test": "node test"
     },
     "license": "MIT",
     "dependencies": {
