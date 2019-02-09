@@ -1,0 +1,13 @@
+{
+    "name": "git-test",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Atin Singh <atin@insyght.ai>",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
